@@ -16,7 +16,7 @@
 - Infrastructure: Docker, Git, Linux
 - Interests: Web application development, system administration, and cybersecurity
 
-<h2>⚙️ Skills and Tools</h2>
+<h2>⚙️ Some Skills</h2>
 
 - Rooting and customizing Android devices and other consoles
 - Secure server configuration and infrastructure management
