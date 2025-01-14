@@ -11,7 +11,7 @@
 <p align="left">I'm a passionate Full Stack Developer from Valencia, Spain.<br><br>While I have experience working with Backend, Databases, and LAMP environments, my true passion lies in designing and styling highly personalized and responsive user interfaces (UI). I enjoy creating visually engaging and user-friendly experiences that stand out.<br><br>Beyond development, I'm a tech enthusiast who loves modding phones, gadgets, and devices. My journey started with my old Nokia X6 back in the Symbian days. Now, I'm an Android and smartwatch fan, a ChinaPhones explorer, and a console modding hobbyist.</p>
 
 ###
-
+<br clear="both">
 <h2 align="left">👩🏼‍💻 About me</h2>
 
 ###
@@ -26,6 +26,7 @@
 <p align="left"><p align="left">👀 I’m interested in geeking with devices, building websites, and creating functional systems.<br><br>🌱 I’m currently learning and working:<br>➡️ JavaScript, TailwindCSS and <b>Angular 17</b> + backend development with <b>Node.js, databases and infrastructure management.</b><br><br>💞️ I’m ready to collaborate on projects related to web development, system administration and <b>frontend development.</b><br><br>😆 Fun fact: When I was younger, I used to fix connectors with aluminum foil...</p></p>
 
 ###
+<br clear="both">
 
 <h2 align="left">💻 Stack I Use</h2>
 
@@ -58,12 +59,10 @@
 </div>
 
 ###
-
+<br clear="both">
 <h2 align="left">🙋🏼‍♀️ Know me Better</h2>
 
 ###
-
-<br clear="both">
 
 <img align="right" height="210" src="https://nusky7studio.es/img/n7s.png"  />
 
@@ -80,7 +79,6 @@
 </div>
 
 ###
-
 <h2 align="left">⚙️ Some Skills</h2>
 
 ###
@@ -88,7 +86,7 @@
 <p align="left">☆ Rooting and customizing Android devices and other consoles.<br>☆ Secure server configuration and infrastructure management.<br>☆ Creating efficient and functional web systems.<br>☆ A good eye for frontend desings.<br>☆ Always focused on making sure it <b>is working</b>.</p>
 
 ###
-
+<br clear="both">
 <h2 align="center">📨 Contact & Profiles</h2>
 
 ###
