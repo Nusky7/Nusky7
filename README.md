@@ -12,7 +12,7 @@
 
 ###
 <br clear="both">
-<h2 align="left">👩🏼‍💻 About me</h2>
+<h2 align="left">👩🏼‍💻 Interests</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 ###
 <br clear="both">
 
-<h2 align="left">💻 Stack I Use</h2>
+<h2 align="left">🛠️ Stack I Use</h2>
 
 ###
 
@@ -68,7 +68,8 @@
 
 ###
 
-<p align="left">Make sure to visit my personal Portfolio Website!<br><br>It's a highly personalized space with a unique Cyber-Retro style that showcases my projects and highlights my passion for web design and development.<br><br>I created this space not just to stand out, but also to reflect my personality. It's more than a portfolio—it's a multifunctional tool where I can listen to the music that inspires me while coding and keep all my favorite resources and documentation in one place.<br><br>⚙️ https://nusky7studio.es</p>
+<p align="left">☆ Make sure to visit my personal Portfolio Website!<br><br>It's a <b>highly personalized space</b> with a unique <b>Cyber-Retro style</b> that showcases my projects and highlights my passion for web design and development.<br><br>I created this space not just to stand out, but also to reflect my personality. It's more than a portfolio—it's a multifunctional tool where I can listen to the music that inspires me while coding and keep all my favorite resources and documentation in one place.<br><br>🌍 <a href="https://nusky7studio.es" target="_blank">www.nusky7studio.es</a></p>
+🗂️ <a href="https://github.com/Nusky7/my-portfolio" target="_blank">N7Studio Repository</a></p>
 
 ###
 
@@ -79,13 +80,24 @@
 </div>
 
 ###
-<h2 align="left">⚙️ Some Skills</h2>
+<h2 align="left">⚡ Key Skills</h2>
 
 ###
 
-<p align="left">☆ Rooting and customizing Android devices and other consoles.<br>☆ Secure server configuration and infrastructure management.<br>☆ Creating efficient and functional web systems.<br>☆ A good eye for frontend desings.<br>☆ Always focused on making sure it <b>is working</b>.</p>
+<p align="left">
+🤖 Rooting and customizing Android devices and other consoles.<br>
+📡 Secure server configuration and infrastructure management.<br>
+🌐 Creating efficient and functional web systems.<br>
+🎨 A good eye for frontend designs and crafting unique, personalized layouts.<br>
+✨ Building dynamic user experiences with animations and modern CSS frameworks.<br>
+⚙️ Developing and maintaining complex backend systems with a focus on scalability and security.<br>
+📱 Customizing and optimizing platforms for better performance.<br>
+🧠 Analytical thinking and creative troubleshooting to solve technical challenges.<br>
+🎯 Always focused on making sure it <b>works efficiently</b>.<br>
+</p>
 
 ###
+
 <br clear="both">
 <h2 align="center">📨 Contact & Profiles</h2>
 
