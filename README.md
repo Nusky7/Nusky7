@@ -4,15 +4,17 @@
 
 ###
 
-<img align="right" height="93" src="https://media.tenor.com/qN1R94E7NVgAAAAj/welcome-images.gif"  />
-
-###
+<br clear="both">
 
 <p align="center">I'm a passionate <b>Full Stack Developer - FrontEnd Focused</b> based in <b>Valencia, Spain</b>, with a love for crafting <b>beautifully designed, responsive, and highly personalized user interfaces (UI).</b></p>
 
 ###
 
-<p align="left">While I have experience working with <b>Backend technologies</b>, <b>Databases</b>, and <b>LAMP environments</b>, my true passion lies in <b>frontend design</b>, creating <b>visually engaging and user-friendly experiences</b> that leave a lasting impression. My portfolio, a <b>Cyber-Retro themed space</b>, is a reflection of my <b>creativity</b> and <b>technical expertise</b>, where I not only showcase my projects but also experiment with <b>new solutions</b> and ideas.<br><br>Beyond development, I'm a <b>tech enthusiast</b> with a lifelong curiosity for modding and tinkering. My journey began with my old <b>Nokia X6</b> during the <b>Symbian days</b>, and since then, I've dived into <b>Android</b>, <b>smartwatches</b>, <b>ChinaPhones</b>, and even <b>console modding.</b></p>
+<img align="right" height="93" src="https://media.tenor.com/qN1R94E7NVgAAAAj/welcome-images.gif"  />
+
+###
+
+<p align="left">While I have experience working with <b>Backend technologies</b>, <b>Databases</b>, and <b>LAMP environments</b>, my true passion lies in <b>frontend design</b>, creating <b>visually engaging and user-friendly experiences</b> that leave a lasting impression. <br>My portfolio, a <b>Cyber-Retro themed space</b>, is a reflection of my <b>creativity</b> and <b>technical expertise</b>, where I not only <br>showcase my projects but also experiment with <b>new solutions</b> and ideas.<br><br>Beyond development, I'm a <b>tech enthusiast</b> with a lifelong curiosity for modding and tinkering. My journey began with my old <b>Nokia X6</b> during the <b>Symbian days</b>, and since then, I've dived into <b>Android</b>, <b>smartwatches</b>, <b>ChinaPhones</b>, and even <b>console modding.</b></p>
 
 ###
 
