@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">Make sure to visit my personal Portfolio Website <b>N7Studio</b>!<br><br>It's a highly personalized space with a <b>unique Cyber-Retro style</b> that <br>showcases my projects and highlights my passion for web design and development.<br><br>I created this space not just to stand out, but also to reflect my personality. It's more than a portfolio — it's a multifunctional tool where I can listen to the music that inspires me while coding and keep all my favorite resources and documentation in one place.<br><br>🌍 <a href="https://nusky7studio.es" target="_blank">www.nusky7studio.es</a><br>🗂️ <a href="https://github.com/Nusky7/my-portfolio" target="_blank">N7Studio Repository</a></p>
+<p align="left">Make sure to visit my personal Portfolio Website <b>N7Studio</b>!<br><br>It's a highly personalized space with a <b>unique Cyber-Retro style</b> that <br>showcases my projects and highlights my passion for web design and development.<br><br>I created this space not just to stand out, but also to reflect my personality. <br>It's more than a portfolio — it's a multifunctional tool where I can listen to the music that <br>inspires me while coding and keep all my favorite resources and documentation in one place.<br><br>🌍 <a href="https://nusky7studio.es" target="_blank">www.nusky7studio.es</a><br>🗂️ <a href="https://github.com/Nusky7/my-portfolio" target="_blank">N7Studio Repository</a></p>
 
 ###
 
