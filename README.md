@@ -2,17 +2,23 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="99" src="https://media.tenor.com/qN1R94E7NVgAAAAj/welcome-images.gif"  />
+<img align="right" height="90" src="https://media.tenor.com/qN1R94E7NVgAAAAj/welcome-images.gif"  />
 
 ###
 
 <p align="left">I'm a passionate Full Stack Developer from Valencia, Spain.<br><br>While I have experience working with Backend, Databases, and LAMP environments, my true passion lies in designing and styling highly personalized and responsive user interfaces (UI). I enjoy creating visually engaging and user-friendly experiences that stand out.<br><br>Beyond development, I'm a tech enthusiast who loves modding phones, gadgets, and devices. My journey started with my old Nokia X6 back in the Symbian days. Now, I'm an Android and smartwatch fan, a ChinaPhones explorer, and a console modding hobbyist.</p>
 
 ###
+
 <br clear="both">
-<h2 align="left">👩🏼‍💻 Interests</h2>
+
+<div align="center">
+  <img height="270" src="https://nusky7studio.es/img/portfolioScreenshots/workGif.gif"  />
+</div>
+
+###
+
+<h2 align="left">👩🏼‍💻 About me</h2>
 
 ###
 
@@ -23,43 +29,12 @@
 
 ###
 
-<p align="left"><p align="left">👀 I’m interested in geeking with devices, building websites, and creating functional systems.<br><br>🌱 I’m currently learning and working:<br>➡️ JavaScript, TailwindCSS and <b>Angular 17</b> + backend development with <b>Node.js, databases and infrastructure management.</b><br><br>💞️ I’m ready to collaborate on projects related to web development, system administration and <b>frontend development.</b><br><br>😆 Fun fact: When I was younger, I used to fix connectors with aluminum foil...</p></p>
+<p align="left">👀 I’m interested in geeking with devices, building websites, and creating functional systems.<br><br>🌱 I’m currently learning and working:<br>➡️ JavaScript, TailwindCSS and Angular 17 + backend development with Node.js, databases and infrastructure management.<br><br>💞️ I’m ready to collaborate on projects related to web development, system administration and frontend development.<br><br>😆 Fun fact: When I was younger, I used to fix connectors with aluminum foil...</p>
 
 ###
+
 <br clear="both">
 
-<h2 align="left">🛠️ Stack I Use</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-</div>
-
-###
-<br clear="both">
 <h2 align="left">🙋🏼‍♀️ Know me Better</h2>
 
 ###
@@ -68,37 +43,66 @@
 
 ###
 
-<p align="left">☆ Make sure to visit my personal Portfolio Website!<br><br>It's a <b>highly personalized space</b> with a unique <b>Cyber-Retro style</b> that showcases my projects and highlights my passion for web design and development.<br><br>I created this space not just to stand out, but also to reflect my personality. It's more than a portfolio—it's a multifunctional tool where I can listen to the music that inspires me while coding and keep all my favorite resources and documentation in one place.<br><br>🌍 <a href="https://nusky7studio.es" target="_blank">www.nusky7studio.es</a></p>
-🗂️ <a href="https://github.com/Nusky7/my-portfolio" target="_blank">N7Studio Repository</a></p>
+<p align="left">Make sure to visit my personal Portfolio Website <b>N7Studio</b>!<br><br>It's a highly personalized space with a <b>unique Cyber-Retro style</b> that <br>showcases my projects and highlights my passion for web design and development.<br><br>I created this space not just to stand out, but also to reflect my personality. It's more than a portfolio — it's a multifunctional tool where I can listen to the music that inspires me while coding and keep all my favorite resources and documentation in one place.<br><br>🌍 <a href="https://nusky7studio.es" target="_blank">www.nusky7studio.es</a><br>🗂️ <a href="https://github.com/Nusky7/my-portfolio" target="_blank">N7Studio Repository</a></p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Nusky7&theme=radical&column=3&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
-<h2 align="left">⚡ Key Skills</h2>
+
+<br clear="both">
+
+<h2 align="center">💻 Stack I Use</h2>
 
 ###
 
-<p align="left">
-🤖 Rooting and customizing Android devices and other consoles.<br>
-📡 Secure server configuration and infrastructure management.<br>
-🌐 Creating efficient and functional web systems.<br>
-🎨 A good eye for frontend designs and crafting unique, personalized layouts.<br>
-✨ Building dynamic user experiences with animations and modern CSS frameworks.<br>
-⚙️ Developing and maintaining complex backend systems with a focus on scalability and security.<br>
-📱 Customizing and optimizing platforms for better performance.<br>
-🧠 Analytical thinking and creative troubleshooting to solve technical challenges.<br>
-🎯 Always focused on making sure it <b>works efficiently</b>.<br>
-</p>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+</div>
 
 ###
 
 <br clear="both">
+
+<h2 align="left">⚡ Key Skills</h2>
+
+###
+
+<p align="left">🤖 Rooting and customizing Android devices and other consoles.<br>📡 Secure server configuration and infrastructure management.<br>🌐 Creating efficient and functional web systems.<br>🎨 A good eye for frontend designs and crafting unique, personalized layouts.<br>✨ Building dynamic user experiences with animations and modern CSS frameworks.<br>⚙️ Developing and maintaining complex backend systems with a focus on scalability and security.<br>📱 Customizing and optimizing platforms for better performance.<br>🧠 Analytical thinking and creative troubleshooting to solve technical challenges.<br>🎯 Always focused on making sure it works efficiently.</p>
+
+###
+
+<br clear="both">
+
 <h2 align="center">📨 Contact & Profiles</h2>
 
 ###
