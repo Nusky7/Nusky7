@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in geeking with devices, building websites, and creating functional systems.<br><br>🌱 I’m currently learning and working:<br>➡️ JavaScript, TailwindCSS and Angular 17 + backend development with Node.js, databases and infrastructure management.<br><br>💞️ I’m ready to collaborate on projects related to web development, system administration and frontend development.<br><br>😆 Fun fact: When I was younger, I used to fix connectors with aluminum foil...</p>
+<p align="left">👀 I’m interested in geeking with devices, building websites, and creating functional systems.<br><br>🌱 I’m currently learning and working:<br>➡️ <code>JavaScript</code>,  <code>TailwindCSS</code> and   <code>TypeScript</code> with <code>Angular 17</code> + backend development with  <code>Node.js</code> &  <code>Express</code>, databases and infrastructure management.<br><br>💞️ I’m ready to collaborate on projects related to web development, system administration and frontend development.<br><br>😆 Fun fact: When I was younger, I used to fix connectors with aluminum foil...</p>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">Make sure to visit my personal Portfolio Website <b>N7Studio</b>!<br><br>It's a highly personalized space with a <b>unique Cyber-Retro style</b> that <br>showcases my projects and highlights my passion for web design and development.<br><br>I created this space not just to stand out, but also to reflect my personality. <br>It's more than a portfolio — it's a multifunctional tool where I can listen to the music that <br>inspires me while coding and keep all my favorite resources and documentation in one place.<br><br>🌍 <a href="https://nusky7studio.es" target="_blank">www.nusky7studio.es</a><br>🗂️ <a href="https://github.com/Nusky7/my-portfolio" target="_blank">N7Studio Repository</a></p>
+<p align="left">Make sure to visit my personal Portfolio Website  <code>🌍 N7Studio</code><br><br>It's a  <code>🎨 highly personalized</code> space with a <code>📟 unique Cyber-Retro style</code> that <br>showcases my projects and highlights my passion for web design and development.<br><br>I created this space not just to stand out, but also to reflect my personality. <br>It's more than a portfolio — it's a <code>⚙️ multifunctional tool</code> where I can listen to the music that <br>inspires me while coding and keep all my favorite resources and documentation in one place.<br><br>🌍 <a href="https://nusky7studio.es" target="_blank">www.nusky7studio.es</a><br>🗂️ <a href="https://github.com/Nusky7/my-portfolio" target="_blank">N7Studio Repository</a></p>
 
 ###
 
@@ -107,7 +107,16 @@
 
 ###
 
-<p align="left">🤖 Rooting and customizing Android devices and other consoles.<br>📡 Secure server configuration and infrastructure management.<br>🌐 Creating efficient and functional web systems.<br>🎨 A good eye for frontend designs and crafting unique, personalized layouts.<br>✨ Building dynamic user experiences with animations and modern CSS frameworks.<br>⚙️ Developing and maintaining complex backend systems with a focus on scalability and security.<br>📱 Customizing and optimizing platforms for better performance.<br>🧠 Analytical thinking and creative troubleshooting to solve technical challenges.<br>🎯 Always focused on making sure it works efficiently.</p>
+<p align="left">
+📟 Rooting and customizing <code>Android devices</code> and other <code>consoles</code>.<br>
+📡 Secure <code>server configuration</code> and <code>infrastructure management</code>.<br>
+🌐 Creating efficient and functional <code>web systems</code>.<br>
+🎨 A good eye for <code>frontend designs</code> and crafting unique, personalized <code>layouts</code>.<br>
+✨ Building dynamic <code>user experiences</code> with <code>animations</code> and modern <code>CSS frameworks</code>.<br>
+⚙️ Developing and maintaining complex <code>backend systems</code> with a focus on <code>scalability</code> and <code>security</code>.<br>
+📱 Customizing and optimizing <code>platforms</code> for better performance.<br>
+🧠 Analytical thinking and creative <code>troubleshooting</code> to solve technical challenges.<br>
+🎯 Always focused on making sure it works <code>efficiently</code>.</p><br>
 
 ###
 
