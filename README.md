@@ -116,7 +116,7 @@
 ⚙️ Developing and maintaining complex <code>backend systems</code> with a focus on <code>scalability</code> and <code>security</code>.<br>
 📱 Customizing and optimizing <code>platforms</code> for better performance.<br>
 🧠 Analytical thinking and creative <code>troubleshooting</code> to solve technical challenges.<br>
-🎯 Always focused on making sure it works <code>efficiently</code>.</p><br>
+🎯 Always focused on making sure it works <code>efficiently</code>.</p>
 
 ###
 
