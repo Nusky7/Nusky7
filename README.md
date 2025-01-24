@@ -1,19 +1,29 @@
-<h1 align="center">Hi, I'm <b>Alba Tolosa Bonora</b>!</h1>
+<div align="center">
+  <img height="210" src="https://nusky7studio.es/img/portfolioScreenshots/nuskyTitleG.gif"  />
+</div>
 
 ###
 
-<img align="right" height="90" src="https://media.tenor.com/qN1R94E7NVgAAAAj/welcome-images.gif"  />
+<img align="right" height="93" src="https://media.tenor.com/qN1R94E7NVgAAAAj/welcome-images.gif"  />
 
 ###
 
-<p align="left">I'm a passionate Full Stack Developer from Valencia, Spain.<br><br>While I have experience working with Backend, Databases, and LAMP environments, my true passion lies in designing and styling highly personalized and responsive user interfaces (UI). I enjoy creating visually engaging and user-friendly experiences that stand out.<br><br>Beyond development, I'm a tech enthusiast who loves modding phones, gadgets, and devices. My journey started with my old Nokia X6 back in the Symbian days. Now, I'm an Android and smartwatch fan, a ChinaPhones explorer, and a console modding hobbyist.</p>
+<p align="center">I'm a passionate <b>Full Stack Developer</b> based in <b>Valencia, Spain</b>, with a love for crafting <b>beautifully designed, responsive, and highly personalized user interfaces (UI).</b></p>
+
+###
+
+<p align="left">While I have experience working with <b>Backend technologies</b>, <b>Databases</b>, and <b>LAMP environments</b>, my true passion lies in <b>frontend design</b>, creating <b>visually engaging and user-friendly experiences</b> that leave a lasting impression. My portfolio, a <b>Cyber-Retro themed space</b>, is a reflection of my <b>creativity</b> and <b>technical expertise</b>, where I not only showcase my projects but also experiment with <b>new solutions</b> and ideas.<br><br>Beyond development, I'm a <b>tech enthusiast</b> with a lifelong curiosity for modding and tinkering. My journey began with my old <b>Nokia X6</b> during the <b>Symbian days</b>, and since then, I've dived into <b>Android</b>, <b>smartwatches</b>, <b>ChinaPhones</b>, and even <b>console modding.</b><br><br>Whether you're looking for someone to <b>bring your ideas to life</b> or <b>collaborate on innovative solutions</b>, I'm always excited to take on <b>new challenges</b> and explore <b>exciting opportunities</b> in the tech world.</p>
+
+###
+
+<p align="center">Whether you're looking for someone to <b>bring your ideas to life</b> or <b>collaborate on innovative solutions</b>, I'm always excited to take on <b>new challenges</b> and explore <b>exciting opportunities</b> in the tech world.</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="270" src="https://nusky7studio.es/img/portfolioScreenshots/workGif.gif"  />
+  <img height="280" src="https://nusky7studio.es/img/portfolioScreenshots/workGif.gif"  />
 </div>
 
 ###
