@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I'm a passionate <b>Full Stack Developer</b> based in <b>Valencia, Spain</b>, with a love for crafting <b>beautifully designed, responsive, and highly personalized user interfaces (UI).</b></p>
+<p align="center">I'm a passionate <b>Full Stack Developer - FrontEnd Focused</b> based in <b>Valencia, Spain</b>, with a love for crafting <b>beautifully designed, responsive, and highly personalized user interfaces (UI).</b></p>
 
 ###
 
