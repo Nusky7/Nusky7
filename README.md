@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">I'm a passionate <b>Full Stack Developer - FrontEnd Focused</b> based in <b>Valencia, Spain</b>, with a love for crafting <b>beautifully designed, responsive, and highly personalized user interfaces (UI).</b></p>
+<p align="center">I'm a passionate <b>Full Stack - FrontEnd Focused Developer</b> based in <b>Valencia, Spain</b>, with a love for crafting <b>beautifully designed, responsive, and highly personalized user interfaces (UI).</b></p>
 
 ###
 
@@ -23,7 +23,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="280" src="https://nusky7studio.es/img/portfolioScreenshots/workGif.gif"  />
+  <img height="280" src="https://nusky7studio.es/img/N7SG.gif" />
 </div>
 
 ###
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in geeking with devices, building websites, and creating functional systems.<br><br>🌱 I’m currently learning and working:<br>➡️ <code>JavaScript</code>,  <code>TailwindCSS</code> and   <code>TypeScript</code> with <code>Angular 17</code> + backend development with  <code>Node.js</code> &  <code>Express</code>, databases and infrastructure management.<br><br>💞️ I’m ready to collaborate on projects related to web development, system administration and frontend development.<br><br>😆 Fun fact: When I was younger, I used to fix connectors with aluminum foil...</p>
+<p align="left">👀 I’m interested in geeking with devices, building websites, and creating functional systems.<br><br>🌱 I’m currently learning and working:<br>➡️ <code>JavaScript</code>,  <code>TailwindCSS</code>, <code>PHP</code> and  <code>Angular 17</code> with <code>TypeScript 17</code> + backend development with  <code>Node.js</code> &  <code>Express</code>, databases and infrastructure management.<br><br>💞️ I’m ready to collaborate on projects related to web development, system administration and frontend development.<br><br>😆 Fun fact: When I was younger, I used to fix connectors with aluminum foil...</p>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<img align="right" height="210" src="https://nusky7studio.es/img/n7s.png"  />
+<img align="right" height="210" src="https://nusky7studio.es/img/logos/n7NoBkg.png"  />
 
 ###
 
@@ -133,7 +133,6 @@
   <a href="https://t.me/Nusky_7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   <a href="mailto:4lbawork@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
